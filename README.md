@@ -1,3 +1,3 @@
 # alokdemo
-demo reposetory
+demo reposetory\n
 author - alok kumar
